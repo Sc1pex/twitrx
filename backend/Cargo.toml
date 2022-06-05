@@ -17,4 +17,5 @@ thiserror = "1.0.31"
 uuid = { version = "0.8.2", features = ["v4", "serde"] }
 
 [dev-dependencies]
+actix-http = "3.0.4"
 assert-json-diff = "2.0.1"
